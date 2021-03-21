@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+// The nested function can't find the variable in it's own scope so it searches out side of it's scope.
 
 
 
